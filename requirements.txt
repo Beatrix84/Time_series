@@ -1,0 +1,7 @@
+numpy
+keras
+pandas
+matplotlib
+xgboost==0.8
+scikit-learn
+statsmodels
